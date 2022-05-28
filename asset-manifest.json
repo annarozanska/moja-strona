@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/moja-strona/static/js/main.c9fa24e1.chunk.js",
+    "main.js.map": "/moja-strona/static/js/main.c9fa24e1.chunk.js.map",
+    "runtime-main.js": "/moja-strona/static/js/runtime-main.01ee71d7.js",
+    "runtime-main.js.map": "/moja-strona/static/js/runtime-main.01ee71d7.js.map",
+    "static/css/2.679831fc.chunk.css": "/moja-strona/static/css/2.679831fc.chunk.css",
+    "static/js/2.9c426001.chunk.js": "/moja-strona/static/js/2.9c426001.chunk.js",
+    "static/js/2.9c426001.chunk.js.map": "/moja-strona/static/js/2.9c426001.chunk.js.map",
+    "index.html": "/moja-strona/index.html",
+    "static/css/2.679831fc.chunk.css.map": "/moja-strona/static/css/2.679831fc.chunk.css.map",
+    "static/js/2.9c426001.chunk.js.LICENSE.txt": "/moja-strona/static/js/2.9c426001.chunk.js.LICENSE.txt",
+    "static/media/owl-158414.fe07bcd0.png": "/moja-strona/static/media/owl-158414.fe07bcd0.png",
+    "static/media/patrick-tomasso-Oaqk7qqNh_c-unsplash.8ca90014.jpg": "/moja-strona/static/media/patrick-tomasso-Oaqk7qqNh_c-unsplash.8ca90014.jpg",
+    "static/media/u-said-it-v13-1167.949cee7e.mp3": "/moja-strona/static/media/u-said-it-v13-1167.949cee7e.mp3",
+    "static/media/woman.bc9e4233.png": "/moja-strona/static/media/woman.bc9e4233.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.01ee71d7.js",
+    "static/css/2.679831fc.chunk.css",
+    "static/js/2.9c426001.chunk.js",
+    "static/js/main.c9fa24e1.chunk.js"
+  ]
+}
